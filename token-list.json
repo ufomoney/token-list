@@ -1,0 +1,48 @@
+{
+   "name":"UFO Money Token List",
+   "timestamp":"2020-07-24T12:00:00+00:00",
+   "logoURI": "https://raw.githubusercontent.com/ufomoney/airdrop-page/master/public/favicon.png",
+   "version":{
+      "major":1,
+      "minor":0,
+      "patch":0
+   },
+   "keywords":[
+      "DeFi",
+      "list"
+   ],
+   "tags":{
+     "gaming":{
+         "name": "Gaming",
+         "description": "Asset that can either be earned through a gaming"
+     },
+    "gov":{
+        "name": "Governance Tokens",
+        "description": "Tokens whose holders have voting rights to the corresponding protocol"
+    }
+   },
+   "tokens":[
+      {
+         "chainId":56,
+         "address":"0x3B72Ac46888f72dD6a6B2076Ca96fcc18e75a935",
+         "symbol":"UFO",
+         "name":"UFO Money",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/ufomoney/airdrop-page/master/public/favicon.png",
+         "tags":[
+            "gov"
+         ]
+      },
+      {
+         "chainId":56,
+         "address":"0x2E427a0EbeAf2656A23FC289b12CE48f9CC3Fb7A",
+         "symbol":"SUFO",
+         "name":"SUFO",
+         "decimals":0,
+         "logoURI":"https://raw.githubusercontent.com/ufomoney/ufomoney-images/main/Logopit_1624960615097.png",         
+         "tags":[
+            "gaming"
+         ]
+      }
+   ]
+}
